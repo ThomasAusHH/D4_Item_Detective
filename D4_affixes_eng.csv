@@ -1,0 +1,1171 @@
+Class;Type;Affixes
+Barbarian;Amulet;Control Impaired Duration Reduction
+Barbarian;Amulet;Cooldown Reduction
+Barbarian;Amulet;Critical Strike Chance Against Injured Enemies
+Barbarian;Amulet;Crowd Control Duration
+Barbarian;Amulet;Damage
+Barbarian;Amulet;Damage for 4 seconds After Killing an Elite
+Barbarian;Amulet;Damage Reduction
+Barbarian;Amulet;Damage Reduction from Close Enemies
+Barbarian;Amulet;Damage Reduction from Distance Enemies
+Barbarian;Amulet;Damage Reduction while Injured
+Barbarian;Amulet;Dexterity
+Barbarian;Amulet;Dodge Chance
+Barbarian;Amulet;Intelligence
+Barbarian;Amulet;Movement Speed
+Barbarian;Amulet;Movement Speed for 4 Seconds After Killing an Elite
+Barbarian;Amulet;Shrine Buff Duration
+Barbarian;Amulet;Slow Duration Reduction
+Barbarian;Amulet;Socket
+Barbarian;Amulet;Strength
+Barbarian;Amulet;Thorns
+Barbarian;Amulet;Total Armor
+Barbarian;Amulet;Ultimate Skill Damage
+Barbarian;Amulet;Willpower
+Barbarian;Amulet;Brawling Skill Damage
+Barbarian;Amulet;Damage Reduction from Enemies That Are Bleeding
+Barbarian;Amulet;Damage Reduction while Fortified
+Barbarian;Amulet;Damage with Dual-Wielded Weapons
+Barbarian;Amulet;Damage with Skills that Swap to New Weapons
+Barbarian;Amulet;Damage with Two-Handed Bludgeoning Weapons
+Barbarian;Amulet;Damage with Two-Handed Slashing Weapons
+Barbarian;Amulet;Fury Cost Reduction
+Barbarian;Amulet;Overpower Damage with Two-Handed Bludgeoning Weapons
+Barbarian;Amulet;Rank of All Defensive Skills
+Barbarian;Amulet;Rank of All Weapon Mastery Skills
+Barbarian;Amulet;Rank of the Brute Force Passive
+Barbarian;Amulet;Rank of the Counteroffensive Passive
+Barbarian;Amulet;Rank of the Cut to the Bone Passive
+Barbarian;Amulet;Rank of the Heavy Handed Passive
+Barbarian;Amulet;Rank of the No Mercy Passive
+Barbarian;Amulet;Rank of the Outburst Passive
+Barbarian;Amulet;Rank of the Slaying Strike Passive
+Barbarian;Amulet;Rank of the Tough as Nails Passive
+Barbarian;Amulet;Rank of the Wallop Passive
+Barbarian;Amulet;Weapon Mastery Skill Damage
+Druid;Amulet;Companion Skill Damage
+Druid;Amulet;Damage Reduction while Fortified
+Druid;Amulet;Damage while in Human Form
+Druid;Amulet;Damage while Shapeshifted
+Druid;Amulet;Earth Skill Damage
+Druid;Amulet;Overpower Damage with Werebear Skills
+Druid;Amulet;Rank of All Companion Skills
+Druid;Amulet;Rank of All Defensive Skills
+Druid;Amulet;Rank of All Wrath Skills
+Druid;Amulet;Rank of the Call of the Wild Passive
+Druid;Amulet;Rank of the Crushing Earth Passive
+Druid;Amulet;Rank of the Defiance Passive
+Druid;Amulet;Rank of the Envenom Passive
+Druid;Amulet;Rank of the Natural Disaster Passive
+Druid;Amulet;Rank of the Nature�s Reach Passive
+Druid;Amulet;Rank of the Quickshift Passive
+Druid;Amulet;Rank of the Resonance Passive
+Druid;Amulet;Rank of the Stone Guard Passive
+Druid;Amulet;Rank of the Toxic Claws Passive
+Druid;Amulet;Rank of the Wild Impulses Passive
+Druid;Amulet;Spirit Cost Reduction
+Druid;Amulet;Storm Skill Cooldown Reduction
+Druid;Amulet;Storm Skill Damage
+Druid;Amulet;Total Armor while in Werewolf Form
+Druid;Amulet;Werebear Skill Damage
+Druid;Amulet;Werewolf Skill Damage
+Necromancer;Amulet;Blood Skill Damage
+Necromancer;Amulet;Bone Skill Damage
+Necromancer;Amulet;Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Necromancer;Amulet;Damage Reduction while Fortified
+Necromancer;Amulet;Darkness Skill Damage
+Necromancer;Amulet;Essence Cost Reduction
+Necromancer;Amulet;Minion Attack Speed
+Necromancer;Amulet;Rank of All Corpse Skills
+Necromancer;Amulet;Rank of All Curse Skills
+Necromancer;Amulet;Rank of All Macabre Skills
+Necromancer;Amulet;Rank of the Amplify Damage Passive
+Necromancer;Amulet;Rank of the Coalesced Blood Passive
+Necromancer;Amulet;Rank of the Compound Fracture Passive
+Necromancer;Amulet;Rank of the Death�s Reach Passive
+Necromancer;Amulet;Rank of the Evulsion Passive
+Necromancer;Amulet;Rank of the Fueled by Death Passive
+Necromancer;Amulet;Rank of the Gloom Passive
+Necromancer;Amulet;Rank of the Hellbent Commander Passive
+Necromancer;Amulet;Rank of the Imperfectly Balanced Passive
+Necromancer;Amulet;Rank of the Terror Passive
+Necromancer;Amulet;Rank of the Tides of Blood Passive
+Necromancer;Amulet;Summoning Skill Damage
+Rogue;Amulet;Attack Speed for 4 seconds after Dodging an Attack
+Rogue;Amulet;Cutthroat Skill Damage
+Rogue;Amulet;Damage Reduction from Enemies That Are Poisoned
+Rogue;Amulet;Damage with Dual-Wielded Weapons
+Rogue;Amulet;Damage with Ranged Weapons
+Rogue;Amulet;Energy Cost Reduction
+Rogue;Amulet;Imbued Skill Damage
+Rogue;Amulet;Imbuement Skill Cooldown Reduction
+Rogue;Amulet;Marksman Skill Damage
+Rogue;Amulet;Rank of All Agility Skills
+Rogue;Amulet;Rank of All Imbuement Skills
+Rogue;Amulet;Rank of All Subterfuge Skills
+Rogue;Amulet;Rank of the Deadly Venom Passive
+Rogue;Amulet;Rank of the Exploit Passive
+Rogue;Amulet;Rank of the Frigid Finesse Passive
+Rogue;Amulet;Rank of the Impetus Passive
+Rogue;Amulet;Rank of the Malice Passive
+Rogue;Amulet;Rank of the Weapon Mastery Passive
+Rogue;Amulet;Reduces the Arm Time of your Trap Skills
+Rogue;Amulet;Trap Skill Cooldown Reduction
+Rogue;Amulet;Trap Skill Damage
+Sorcerer;Amulet;Conjuration Skill Damage
+Sorcerer;Amulet;Frost Skill Damage
+Sorcerer;Amulet;Lucky Hit Chance while You Have a Barrier
+Sorcerer;Amulet;Mana Cost Reduction
+Sorcerer;Amulet;Pyromancy Skill Damage
+Sorcerer;Amulet;Rank of All Conjuration Skills
+Sorcerer;Amulet;Rank of All Defensive Skills
+Sorcerer;Amulet;Rank of All Mastery Skills
+Sorcerer;Amulet;Rank of the Conjuration Mastery Passive
+Sorcerer;Amulet;Rank of the Devouring Blaze Passive
+Sorcerer;Amulet;Rank of the Elemental Dominance Passive
+Sorcerer;Amulet;Rank of the Endless Pyre Passive
+Sorcerer;Amulet;Rank of the Glass Cannon Passive
+Sorcerer;Amulet;Rank of the Hoarfrost Passive
+Sorcerer;Amulet;Rank of the Icy Touch Passive
+Sorcerer;Amulet;Rank of the Inner Flames Passive
+Sorcerer;Amulet;Rank of the Permafrost Passive
+Sorcerer;Amulet;Rank of the Shocking Impact Passive
+Sorcerer;Amulet;Shock Skill Damage
+Druid;Amulet;Control Impaired Duration Reduction
+Druid;Amulet;Cooldown Reduction
+Druid;Amulet;Critical Strike Chance Against Injured Enemies
+Druid;Amulet;Crowd Control Duration
+Druid;Amulet;Damage
+Druid;Amulet;Damage for 4 seconds After Killing an Elite
+Druid;Amulet;Damage Reduction
+Druid;Amulet;Damage Reduction from Close Enemies
+Druid;Amulet;Damage Reduction from Distance Enemies
+Druid;Amulet;Damage Reduction while Injured
+Druid;Amulet;Dexterity
+Druid;Amulet;Dodge Chance
+Druid;Amulet;Intelligence
+Druid;Amulet;Movement Speed
+Druid;Amulet;Movement Speed for 4 Seconds After Killing an Elite
+Druid;Amulet;Shrine Buff Duration
+Druid;Amulet;Slow Duration Reduction
+Druid;Amulet;Socket
+Druid;Amulet;Strength
+Druid;Amulet;Thorns
+Druid;Amulet;Total Armor
+Druid;Amulet;Ultimate Skill Damage
+Druid;Amulet;Willpower
+Necromancer;Amulet;Control Impaired Duration Reduction
+Necromancer;Amulet;Cooldown Reduction
+Necromancer;Amulet;Critical Strike Chance Against Injured Enemies
+Necromancer;Amulet;Crowd Control Duration
+Necromancer;Amulet;Damage
+Necromancer;Amulet;Damage for 4 seconds After Killing an Elite
+Necromancer;Amulet;Damage Reduction
+Necromancer;Amulet;Damage Reduction from Close Enemies
+Necromancer;Amulet;Damage Reduction from Distance Enemies
+Necromancer;Amulet;Damage Reduction while Injured
+Necromancer;Amulet;Dexterity
+Necromancer;Amulet;Dodge Chance
+Necromancer;Amulet;Intelligence
+Necromancer;Amulet;Movement Speed
+Necromancer;Amulet;Movement Speed for 4 Seconds After Killing an Elite
+Necromancer;Amulet;Shrine Buff Duration
+Necromancer;Amulet;Slow Duration Reduction
+Necromancer;Amulet;Socket
+Necromancer;Amulet;Strength
+Necromancer;Amulet;Thorns
+Necromancer;Amulet;Total Armor
+Necromancer;Amulet;Ultimate Skill Damage
+Necromancer;Amulet;Willpower
+Rogue;Amulet;Control Impaired Duration Reduction
+Rogue;Amulet;Cooldown Reduction
+Rogue;Amulet;Critical Strike Chance Against Injured Enemies
+Rogue;Amulet;Crowd Control Duration
+Rogue;Amulet;Damage
+Rogue;Amulet;Damage for 4 seconds After Killing an Elite
+Rogue;Amulet;Damage Reduction
+Rogue;Amulet;Damage Reduction from Close Enemies
+Rogue;Amulet;Damage Reduction from Distance Enemies
+Rogue;Amulet;Damage Reduction while Injured
+Rogue;Amulet;Dexterity
+Rogue;Amulet;Dodge Chance
+Rogue;Amulet;Intelligence
+Rogue;Amulet;Movement Speed
+Rogue;Amulet;Movement Speed for 4 Seconds After Killing an Elite
+Rogue;Amulet;Shrine Buff Duration
+Rogue;Amulet;Slow Duration Reduction
+Rogue;Amulet;Socket
+Rogue;Amulet;Strength
+Rogue;Amulet;Thorns
+Rogue;Amulet;Total Armor
+Rogue;Amulet;Ultimate Skill Damage
+Rogue;Amulet;Willpower
+Sorcerer;Amulet;Control Impaired Duration Reduction
+Sorcerer;Amulet;Cooldown Reduction
+Sorcerer;Amulet;Critical Strike Chance Against Injured Enemies
+Sorcerer;Amulet;Crowd Control Duration
+Sorcerer;Amulet;Damage
+Sorcerer;Amulet;Damage for 4 seconds After Killing an Elite
+Sorcerer;Amulet;Damage Reduction
+Sorcerer;Amulet;Damage Reduction from Close Enemies
+Sorcerer;Amulet;Damage Reduction from Distance Enemies
+Sorcerer;Amulet;Damage Reduction while Injured
+Sorcerer;Amulet;Dexterity
+Sorcerer;Amulet;Dodge Chance
+Sorcerer;Amulet;Intelligence
+Sorcerer;Amulet;Movement Speed
+Sorcerer;Amulet;Movement Speed for 4 Seconds After Killing an Elite
+Sorcerer;Amulet;Shrine Buff Duration
+Sorcerer;Amulet;Slow Duration Reduction
+Sorcerer;Amulet;Socket
+Sorcerer;Amulet;Strength
+Sorcerer;Amulet;Thorns
+Sorcerer;Amulet;Total Armor
+Sorcerer;Amulet;Ultimate Skill Damage
+Sorcerer;Amulet;Willpower
+Sorcerer;Ring;Critical Strike Chance
+Sorcerer;Ring;Critical Strike Damage
+Sorcerer;Ring;Damage Over Time
+Sorcerer;Ring;Damage to Close Enemies
+Sorcerer;Ring;Damage to Crowd Controlled Enemies
+Sorcerer;Ring;Damage to Distant Enemies
+Sorcerer;Ring;Damage to Injured Enemies
+Sorcerer;Ring;Damage to Slowed Enemies
+Sorcerer;Ring;Damage to Stunned Enemies
+Sorcerer;Ring;Life Regeneration while Not Damaged Recently
+Sorcerer;Ring;Lucky Hit Chance
+Sorcerer;Ring;Maximum Life
+Sorcerer;Ring;Overpower Damage
+Sorcerer;Ring;Resource Generation
+Sorcerer;Ring;Socket
+Sorcerer;Ring;Vulnerable Damage
+Barbarian;Ring;Damage to Bleeding Enemies
+Barbarian;Ring;Damage while Berserking
+Barbarian;Ring;Fortify Generation
+Barbarian;Ring;Maximum Fury
+Barbarian;Ring;Physical Damage
+Druid;Ring;Critical Strike Damage with Earth Skills
+Druid;Ring;Critical Strike Damage with Werewolf Skills
+Druid;Ring;Damage to Poisoned Enemies
+Druid;Ring;Fortify Generation
+Druid;Ring;Lightning Damage
+Druid;Ring;Maximum Spirit
+Druid;Ring;Physical Damage
+Druid;Ring;Poison Damage
+Necromancer;Ring;Blood Orb Healing
+Necromancer;Ring;Critical Strike Damage with Bone Skills
+Necromancer;Ring;Damage for 4 Seconds After Picking Up a Blood Orb
+Necromancer;Ring;Damage to Affected by Shadow Damage Over Time Enemies
+Necromancer;Ring;Fortify Generation
+Necromancer;Ring;Golems Inherit [X]% of Your Thorns
+Necromancer;Ring;Maximum Essence
+Necromancer;Ring;Maximum Minion Life
+Necromancer;Ring;Physical Damage
+Necromancer;Ring;Shadow Damage
+Necromancer;Ring;Skeletal Mages Inherit [X]% of Your Thorns
+Necromancer;Ring;Skeletal Warriors Inherit [X]% of Your Thorns
+Rogue;Ring;Cold Damage
+Rogue;Ring;Critical Strike Damage with Imbued Skills
+Rogue;Ring;Damage to Chilled Enemies
+Rogue;Ring;Damage to Dazed Enemies
+Rogue;Ring;Damage to Enemies Affected by Trap Skills
+Rogue;Ring;Damage to Frozen Enemies
+Rogue;Ring;Damage to Poisoned Enemies
+Rogue;Ring;Imbued Skill Damage
+Rogue;Ring;Maximum Energy
+Rogue;Ring;Physical Damage
+Rogue;Ring;Shadow Damage
+Sorcerer;Ring;Barrier Generation
+Sorcerer;Ring;Cold Damage
+Sorcerer;Ring;Cracking Energy Damage
+Sorcerer;Ring;Damage to Burning Enemies
+Sorcerer;Ring;Damage to Chilled Enemies
+Sorcerer;Ring;Damage to Frozen Enemies
+Sorcerer;Ring;Fire Damage
+Sorcerer;Ring;Lightning Critical Strike Damage
+Sorcerer;Ring;Lightning Damage
+Sorcerer;Ring;Maximum Mana
+Barbarian;Ring;Critical Strike Chance
+Barbarian;Ring;Critical Strike Damage
+Barbarian;Ring;Damage Over Time
+Barbarian;Ring;Damage to Close Enemies
+Barbarian;Ring;Damage to Crowd Controlled Enemies
+Barbarian;Ring;Damage to Distant Enemies
+Barbarian;Ring;Damage to Injured Enemies
+Barbarian;Ring;Damage to Slowed Enemies
+Barbarian;Ring;Damage to Stunned Enemies
+Barbarian;Ring;Life Regeneration while Not Damaged Recently
+Barbarian;Ring;Lucky Hit Chance
+Barbarian;Ring;Maximum Life
+Barbarian;Ring;Overpower Damage
+Barbarian;Ring;Resource Generation
+Barbarian;Ring;Socket
+Barbarian;Ring;Vulnerable Damage
+Druid;Ring;Critical Strike Chance
+Druid;Ring;Critical Strike Damage
+Druid;Ring;Damage Over Time
+Druid;Ring;Damage to Close Enemies
+Druid;Ring;Damage to Crowd Controlled Enemies
+Druid;Ring;Damage to Distant Enemies
+Druid;Ring;Damage to Injured Enemies
+Druid;Ring;Damage to Slowed Enemies
+Druid;Ring;Damage to Stunned Enemies
+Druid;Ring;Life Regeneration while Not Damaged Recently
+Druid;Ring;Lucky Hit Chance
+Druid;Ring;Maximum Life
+Druid;Ring;Overpower Damage
+Druid;Ring;Resource Generation
+Druid;Ring;Socket
+Druid;Ring;Vulnerable Damage
+Necromancer;Ring;Critical Strike Chance
+Necromancer;Ring;Critical Strike Damage
+Necromancer;Ring;Damage Over Time
+Necromancer;Ring;Damage to Close Enemies
+Necromancer;Ring;Damage to Crowd Controlled Enemies
+Necromancer;Ring;Damage to Distant Enemies
+Necromancer;Ring;Damage to Injured Enemies
+Necromancer;Ring;Damage to Slowed Enemies
+Necromancer;Ring;Damage to Stunned Enemies
+Necromancer;Ring;Life Regeneration while Not Damaged Recently
+Necromancer;Ring;Lucky Hit Chance
+Necromancer;Ring;Maximum Life
+Necromancer;Ring;Overpower Damage
+Necromancer;Ring;Resource Generation
+Necromancer;Ring;Socket
+Necromancer;Ring;Vulnerable Damage
+Rogue;Ring;Critical Strike Chance
+Rogue;Ring;Critical Strike Damage
+Rogue;Ring;Damage Over Time
+Rogue;Ring;Damage to Close Enemies
+Rogue;Ring;Damage to Crowd Controlled Enemies
+Rogue;Ring;Damage to Distant Enemies
+Rogue;Ring;Damage to Injured Enemies
+Rogue;Ring;Damage to Slowed Enemies
+Rogue;Ring;Damage to Stunned Enemies
+Rogue;Ring;Life Regeneration while Not Damaged Recently
+Rogue;Ring;Lucky Hit Chance
+Rogue;Ring;Maximum Life
+Rogue;Ring;Overpower Damage
+Rogue;Ring;Resource Generation
+Rogue;Ring;Socket
+Rogue;Ring;Vulnerable Damage
+Barbarian;Weapon;All Stats
+Barbarian;Weapon;Basic Skill Damage
+Barbarian;Weapon;Core Skill Damage
+Barbarian;Weapon;Critical Strike Damage
+Barbarian;Weapon;Damage Over Time
+Barbarian;Weapon;Damage to Close Enemies
+Barbarian;Weapon;Damage to Crowd Controlled Enemies
+Barbarian;Weapon;Damage to Distant Enemies
+Barbarian;Weapon;Damage to Injured Enemies
+Barbarian;Weapon;Damage to Slowed Enemies
+Barbarian;Weapon;Damage to Stunned Enemies
+Barbarian;Weapon;Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Barbarian;Weapon;Overpower Damage
+Barbarian;Weapon;Socket
+Barbarian;Weapon;Ultimate Skill Damage
+Barbarian;Weapon;Vulnerable Damage
+Barbarian;Weapon;Damage to Bleeding Enemies
+Barbarian;Weapon;Damage while Berserking
+Barbarian;Weapon;Strength
+Druid;Weapon;Critical Strike Damage with Earth Skills
+Druid;Weapon;Critical Strike Damage with Werewolf Skills
+Druid;Weapon;Damage to Poisoned Enemies
+Druid;Weapon;Lightning Critical Strike Damage
+Druid;Weapon;Overpower Damage with Werebear Skills
+Druid;Weapon;Willpower
+Necromancer;Weapon;Critical Strike Damage with Bone Skills
+Necromancer;Weapon;Damage to Affected by Shadow Damage Over Time Enemies
+Necromancer;Weapon;Intelligence
+Rogue;Weapon;Critical Strike Damage with Imbued Skills
+Rogue;Weapon;Damage to Chilled Enemies
+Rogue;Weapon;Damage to Dazed Enemies
+Rogue;Weapon;Damage to Enemies Affected by Trap Skills
+Rogue;Weapon;Damage to Frozen Enemies
+Rogue;Weapon;Damage to Poisoned Enemies
+Rogue;Weapon;Dexterity
+Sorcerer;Weapon;Damage to Burning Enemies
+Sorcerer;Weapon;Damage to Chilled Enemies
+Sorcerer;Weapon;Damage to Frozen Enemies
+Sorcerer;Weapon;Intelligence
+Sorcerer;Weapon;Lightning Critical Strike Damage
+Druid;Weapon;All Stats
+Druid;Weapon;Basic Skill Damage
+Druid;Weapon;Core Skill Damage
+Druid;Weapon;Critical Strike Damage
+Druid;Weapon;Damage Over Time
+Druid;Weapon;Damage to Close Enemies
+Druid;Weapon;Damage to Crowd Controlled Enemies
+Druid;Weapon;Damage to Distant Enemies
+Druid;Weapon;Damage to Injured Enemies
+Druid;Weapon;Damage to Slowed Enemies
+Druid;Weapon;Damage to Stunned Enemies
+Druid;Weapon;Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Druid;Weapon;Overpower Damage
+Druid;Weapon;Socket
+Druid;Weapon;Ultimate Skill Damage
+Druid;Weapon;Vulnerable Damage
+Necromancer;Weapon;All Stats
+Necromancer;Weapon;Basic Skill Damage
+Necromancer;Weapon;Core Skill Damage
+Necromancer;Weapon;Critical Strike Damage
+Necromancer;Weapon;Damage Over Time
+Necromancer;Weapon;Damage to Close Enemies
+Necromancer;Weapon;Damage to Crowd Controlled Enemies
+Necromancer;Weapon;Damage to Distant Enemies
+Necromancer;Weapon;Damage to Injured Enemies
+Necromancer;Weapon;Damage to Slowed Enemies
+Necromancer;Weapon;Damage to Stunned Enemies
+Necromancer;Weapon;Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Necromancer;Weapon;Overpower Damage
+Necromancer;Weapon;Socket
+Necromancer;Weapon;Ultimate Skill Damage
+Necromancer;Weapon;Vulnerable Damage
+Rogue;Weapon;All Stats
+Rogue;Weapon;Basic Skill Damage
+Rogue;Weapon;Core Skill Damage
+Rogue;Weapon;Critical Strike Damage
+Rogue;Weapon;Damage Over Time
+Rogue;Weapon;Damage to Close Enemies
+Rogue;Weapon;Damage to Crowd Controlled Enemies
+Rogue;Weapon;Damage to Distant Enemies
+Rogue;Weapon;Damage to Injured Enemies
+Rogue;Weapon;Damage to Slowed Enemies
+Rogue;Weapon;Damage to Stunned Enemies
+Rogue;Weapon;Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Rogue;Weapon;Overpower Damage
+Rogue;Weapon;Socket
+Rogue;Weapon;Ultimate Skill Damage
+Rogue;Weapon;Vulnerable Damage
+Sorcerer;Weapon;All Stats
+Sorcerer;Weapon;Basic Skill Damage
+Sorcerer;Weapon;Core Skill Damage
+Sorcerer;Weapon;Critical Strike Damage
+Sorcerer;Weapon;Damage Over Time
+Sorcerer;Weapon;Damage to Close Enemies
+Sorcerer;Weapon;Damage to Crowd Controlled Enemies
+Sorcerer;Weapon;Damage to Distant Enemies
+Sorcerer;Weapon;Damage to Injured Enemies
+Sorcerer;Weapon;Damage to Slowed Enemies
+Sorcerer;Weapon;Damage to Stunned Enemies
+Sorcerer;Weapon;Lucky Hit: Up to [X] Chance to Execute Injured Non-Elites
+Sorcerer;Weapon;Overpower Damage
+Sorcerer;Weapon;Socket
+Sorcerer;Weapon;Ultimate Skill Damage
+Sorcerer;Weapon;Vulnerable Damage
+Barbarian;Boots;All Stats
+Barbarian;Boots;Cold Resistance
+Barbarian;Boots;Damage Reduction while Injured
+Barbarian;Boots;Dexterity
+Barbarian;Boots;Dodge Chance
+Barbarian;Boots;Dodge Chance Against Distant Enemies
+Barbarian;Boots;Dodge Change
+Barbarian;Boots;Fire Resistance
+Barbarian;Boots;Intelligence
+Barbarian;Boots;Lightning Resistance
+Barbarian;Boots;Movement Speed
+Barbarian;Boots;Movement Speed for 4 seconds After Killing an Elite
+Barbarian;Boots;Poison Resistance
+Barbarian;Boots;Shadow Resistance
+Barbarian;Boots;Shrine Buff Duration
+Barbarian;Boots;Slow Duration Reduction
+Barbarian;Boots;Strength
+Barbarian;Boots;Willpower
+Barbarian;Boots;Berserking Duration
+Barbarian;Boots;Fortify Generation
+Barbarian;Boots;Fury Cost Reduction
+Druid;Boots;Fortify Generation
+Druid;Boots;Spirit Cost Reduction
+Druid;Boots;Total Armor while in Werewolf Form
+Necromancer;Boots;Essence Cost Reduction
+Necromancer;Boots;Fortify Generation
+Necromancer;Boots;Rank of Bone Spirit
+Necromancer;Boots;Rank of Corpse Tendrils
+Rogue;Boots;Energy Cost Reduction
+Rogue;Boots;Rank of Caltrops
+Rogue;Boots;Rank of Dash
+Rogue;Boots;Rank of Shadow Step
+Sorcerer;Boots;Crackling Energy Damage
+Sorcerer;Boots;Mana Cost Reduction
+Sorcerer;Boots;Rank of Flame Shield
+Sorcerer;Boots;Rank of Frost Nova
+Sorcerer;Boots;Rank of Ice Armor
+Sorcerer;Boots;Rank of Teleport
+Druid;Boots;Damage Reduction while Injured
+Druid;Boots;Dexterity
+Druid;Boots;Dodge Chance
+Druid;Boots;Dodge Chance Against Distant Enemies
+Druid;Boots;Dodge Change
+Druid;Boots;Fire Resistance
+Druid;Boots;Intelligence
+Druid;Boots;Lightning Resistance
+Druid;Boots;Movement Speed
+Druid;Boots;Movement Speed for 4 seconds After Killing an Elite
+Druid;Boots;Poison Resistance
+Druid;Boots;Shadow Resistance
+Druid;Boots;Shrine Buff Duration
+Druid;Boots;Slow Duration Reduction
+Druid;Boots;Strength
+Druid;Boots;Willpower
+Necromancer;Boots;Damage Reduction while Injured
+Necromancer;Boots;Dexterity
+Necromancer;Boots;Dodge Chance
+Necromancer;Boots;Dodge Chance Against Distant Enemies
+Necromancer;Boots;Dodge Change
+Necromancer;Boots;Fire Resistance
+Necromancer;Boots;Intelligence
+Necromancer;Boots;Lightning Resistance
+Necromancer;Boots;Movement Speed
+Necromancer;Boots;Movement Speed for 4 seconds After Killing an Elite
+Necromancer;Boots;Poison Resistance
+Necromancer;Boots;Shadow Resistance
+Necromancer;Boots;Shrine Buff Duration
+Necromancer;Boots;Slow Duration Reduction
+Necromancer;Boots;Strength
+Necromancer;Boots;Willpower
+Rogue;Boots;Damage Reduction while Injured
+Rogue;Boots;Dexterity
+Rogue;Boots;Dodge Chance
+Rogue;Boots;Dodge Chance Against Distant Enemies
+Rogue;Boots;Dodge Change
+Rogue;Boots;Fire Resistance
+Rogue;Boots;Intelligence
+Rogue;Boots;Lightning Resistance
+Rogue;Boots;Movement Speed
+Rogue;Boots;Movement Speed for 4 seconds After Killing an Elite
+Rogue;Boots;Poison Resistance
+Rogue;Boots;Shadow Resistance
+Rogue;Boots;Shrine Buff Duration
+Rogue;Boots;Slow Duration Reduction
+Rogue;Boots;Strength
+Rogue;Boots;Willpower
+Sorcerer;Boots;Damage Reduction while Injured
+Sorcerer;Boots;Dexterity
+Sorcerer;Boots;Dodge Chance
+Sorcerer;Boots;Dodge Chance Against Distant Enemies
+Sorcerer;Boots;Dodge Change
+Sorcerer;Boots;Fire Resistance
+Sorcerer;Boots;Intelligence
+Sorcerer;Boots;Lightning Resistance
+Sorcerer;Boots;Movement Speed
+Sorcerer;Boots;Movement Speed for 4 seconds After Killing an Elite
+Sorcerer;Boots;Poison Resistance
+Sorcerer;Boots;Shadow Resistance
+Sorcerer;Boots;Shrine Buff Duration
+Sorcerer;Boots;Slow Duration Reduction
+Sorcerer;Boots;Strength
+Sorcerer;Boots;Willpower
+Druid;Off-Hands;All Stats
+Druid;Off-Hands;Basic Skill Attack Speed
+Druid;Off-Hands;Basic Skill Damage
+Druid;Off-Hands;Cooldown Reduction
+Druid;Off-Hands;Critical Strike Chance
+Druid;Off-Hands;Critical Strike Chance Against Injured Enemies
+Druid;Off-Hands;Crowd Control Duration
+Druid;Off-Hands;Dexterity
+Druid;Off-Hands;Healing Received
+Druid;Off-Hands;Intelligence
+Druid;Off-Hands;Life On Kill
+Druid;Off-Hands;Lucky Hit Chance
+Druid;Off-Hands;Lucky Hit: Chance to Restore [X]% Primary Resource
+Druid;Off-Hands;Lucky Hit: Up to [X]% Chance to Slow
+Druid;Off-Hands;Lucky Hit: Up to a [X]% Chance to Heal
+Druid;Off-Hands;Resource Generation
+Druid;Off-Hands;Socket
+Druid;Off-Hands;Strength
+Druid;Off-Hands;Willpower
+Druid;Off-Hands;Damage Reduction from Enemies That Are Poisoned
+Druid;Off-Hands;Damage Reduction while Fortified
+Druid;Off-Hands;Fortify Generation
+Druid;Off-Hands;Spirit Cost Reduction
+Necromancer;Off-Hands;Blood Orb Healing
+Necromancer;Off-Hands;Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Necromancer;Off-Hands;Damage Reduction while Fortified
+Necromancer;Off-Hands;Essence Cost Reduction
+Necromancer;Off-Hands;Fortify Generation
+Necromancer;Off-Hands;Maximum Minion Life
+Sorcerer;Off-Hands;Barrier Generation
+Sorcerer;Off-Hands;Crackling Energy Damage
+Sorcerer;Off-Hands;Damage Reduction from Enemies That Are Burning
+Sorcerer;Off-Hands;Lucky Hit Chance while You Have a Barrier
+Sorcerer;Off-Hands;Mana Cost Reduction
+Necromancer;Off-Hands;All Stats
+Necromancer;Off-Hands;Basic Skill Attack Speed
+Necromancer;Off-Hands;Basic Skill Damage
+Necromancer;Off-Hands;Cooldown Reduction
+Necromancer;Off-Hands;Critical Strike Chance
+Necromancer;Off-Hands;Critical Strike Chance Against Injured Enemies
+Necromancer;Off-Hands;Crowd Control Duration
+Necromancer;Off-Hands;Dexterity
+Necromancer;Off-Hands;Healing Received
+Necromancer;Off-Hands;Intelligence
+Necromancer;Off-Hands;Life On Kill
+Necromancer;Off-Hands;Lucky Hit Chance
+Necromancer;Off-Hands;Lucky Hit: Chance to Restore [X]% Primary Resource
+Necromancer;Off-Hands;Lucky Hit: Up to [X]% Chance to Slow
+Necromancer;Off-Hands;Lucky Hit: Up to a [X]% Chance to Heal
+Necromancer;Off-Hands;Resource Generation
+Necromancer;Off-Hands;Socket
+Necromancer;Off-Hands;Strength
+Necromancer;Off-Hands;Willpower
+Sorcerer;Off-Hands;All Stats
+Sorcerer;Off-Hands;Basic Skill Attack Speed
+Sorcerer;Off-Hands;Basic Skill Damage
+Sorcerer;Off-Hands;Cooldown Reduction
+Sorcerer;Off-Hands;Critical Strike Chance
+Sorcerer;Off-Hands;Critical Strike Chance Against Injured Enemies
+Sorcerer;Off-Hands;Crowd Control Duration
+Sorcerer;Off-Hands;Dexterity
+Sorcerer;Off-Hands;Healing Received
+Sorcerer;Off-Hands;Intelligence
+Sorcerer;Off-Hands;Life On Kill
+Sorcerer;Off-Hands;Lucky Hit Chance
+Sorcerer;Off-Hands;Lucky Hit: Chance to Restore [X]% Primary Resource
+Sorcerer;Off-Hands;Lucky Hit: Up to [X]% Chance to Slow
+Sorcerer;Off-Hands;Lucky Hit: Up to a [X]% Chance to Heal
+Sorcerer;Off-Hands;Resource Generation
+Sorcerer;Off-Hands;Socket
+Sorcerer;Off-Hands;Strength
+Sorcerer;Off-Hands;Willpower
+Necromancer;Shield;All Stats
+Necromancer;Shield;Basic Skill Attack Speed
+Necromancer;Shield;Basic Skill Damage
+Necromancer;Shield;Cooldown Reduction
+Necromancer;Shield;Critical Strike Chance
+Necromancer;Shield;Critical Strike Chance Against Injured Enemies
+Necromancer;Shield;Crowd Control Duration
+Necromancer;Shield;Damage Reduction
+Necromancer;Shield;Damage Reduction from Close Enemies
+Necromancer;Shield;Damage Reduction from Distant Enemies
+Necromancer;Shield;Dexterity
+Necromancer;Shield;Healing Received
+Necromancer;Shield;Intelligence
+Necromancer;Shield;Life On Kill
+Necromancer;Shield;Lucky Hit Chance
+Necromancer;Shield;Lucky Hit: Chance to Restore [X]% Primary Resource
+Necromancer;Shield;Lucky Hit: Up to [X]% Chance to Slow
+Necromancer;Shield;Lucky Hit: Up to a [X]% Chance to Heal
+Necromancer;Shield;Maximum Life
+Necromancer;Shield;Resource Generation
+Necromancer;Shield;Socket
+Necromancer;Shield;Strength
+Necromancer;Shield;Thorns
+Necromancer;Shield;Willpower
+Necromancer;Shield;Blood Orb Healing
+Necromancer;Shield;Damage for 4 Seconds After Picking Up a Blood Orb
+Necromancer;Shield;Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Necromancer;Shield;Damage Reduction while Fortified
+Necromancer;Shield;Essence Cost Reduction
+Necromancer;Shield;Fortify Generation
+Necromancer;Shield;Maximum Minion Life
+Necromancer;Shield;Minion Attack Speed
+Barbarian;Helm;All Stats
+Barbarian;Helm;Basic Skill Attack Speed
+Barbarian;Helm;Cold Resistance
+Barbarian;Helm;Cooldown Reduction
+Barbarian;Helm;Crowd Control Duration
+Barbarian;Helm;Dexterity
+Barbarian;Helm;Fire Resistance
+Barbarian;Helm;Healing Received
+Barbarian;Helm;Intelligence
+Barbarian;Helm;Life On Kill
+Barbarian;Helm;Life Regeneration while Not Damaged Recently
+Barbarian;Helm;Lightning Resistance
+Barbarian;Helm;Maximum Life
+Barbarian;Helm;Poison Resistance
+Barbarian;Helm;Shadow Resistance
+Barbarian;Helm;Socket
+Barbarian;Helm;Strength
+Barbarian;Helm;Total Armor
+Barbarian;Helm;Willpower
+Barbarian;Helm;Maximum Fury
+Barbarian;Helm;Rank of Death Blow
+Barbarian;Helm;Rank of Rupture
+Barbarian;Helm;Rank of Steel Grasp
+Druid;Helm;Maximum Spirit
+Druid;Helm;Rank of Poison Creeper
+Druid;Helm;Rank of Ravens
+Druid;Helm;Rank of Wolves
+Necromancer;Helm;Maximum Essence
+Necromancer;Helm;Rank of Decrepify
+Necromancer;Helm;Rank of Iron Maiden
+Rogue;Helm;Damage with Dual-Wielded Weapons
+Rogue;Helm;Maximum Energy
+Rogue;Helm;Rank of Cold Imbuement
+Rogue;Helm;Rank of Poison Imbuement
+Rogue;Helm;Rank of Shadow Imbuement
+Sorcerer;Helm;Barrier Generation
+Sorcerer;Helm;Lucky Hit Chance while You Have a Barrier
+Sorcerer;Helm;Maximum Mana
+Sorcerer;Helm;Rank of Hydra
+Sorcerer;Helm;Rank of Ice Blades
+Sorcerer;Helm;Rank of Lightning Spear
+Druid;Helm;All Stats
+Druid;Helm;Basic Skill Attack Speed
+Druid;Helm;Cold Resistance
+Druid;Helm;Cooldown Reduction
+Druid;Helm;Crowd Control Duration
+Druid;Helm;Dexterity
+Druid;Helm;Fire Resistance
+Druid;Helm;Healing Received
+Druid;Helm;Intelligence
+Druid;Helm;Life On Kill
+Druid;Helm;Life Regeneration while Not Damaged Recently
+Druid;Helm;Lightning Resistance
+Druid;Helm;Maximum Life
+Druid;Helm;Poison Resistance
+Druid;Helm;Shadow Resistance
+Druid;Helm;Socket
+Druid;Helm;Strength
+Druid;Helm;Total Armor
+Druid;Helm;Willpower
+Necromancer;Helm;All Stats
+Necromancer;Helm;Basic Skill Attack Speed
+Necromancer;Helm;Cold Resistance
+Necromancer;Helm;Cooldown Reduction
+Necromancer;Helm;Crowd Control Duration
+Necromancer;Helm;Dexterity
+Necromancer;Helm;Fire Resistance
+Necromancer;Helm;Healing Received
+Necromancer;Helm;Intelligence
+Necromancer;Helm;Life On Kill
+Necromancer;Helm;Life Regeneration while Not Damaged Recently
+Necromancer;Helm;Lightning Resistance
+Necromancer;Helm;Maximum Life
+Necromancer;Helm;Poison Resistance
+Necromancer;Helm;Shadow Resistance
+Necromancer;Helm;Socket
+Necromancer;Helm;Strength
+Necromancer;Helm;Total Armor
+Necromancer;Helm;Willpower
+Rogue;Helm;All Stats
+Rogue;Helm;Basic Skill Attack Speed
+Rogue;Helm;Cold Resistance
+Rogue;Helm;Cooldown Reduction
+Rogue;Helm;Crowd Control Duration
+Rogue;Helm;Dexterity
+Rogue;Helm;Fire Resistance
+Rogue;Helm;Healing Received
+Rogue;Helm;Intelligence
+Rogue;Helm;Life On Kill
+Rogue;Helm;Life Regeneration while Not Damaged Recently
+Rogue;Helm;Lightning Resistance
+Rogue;Helm;Maximum Life
+Rogue;Helm;Poison Resistance
+Rogue;Helm;Shadow Resistance
+Rogue;Helm;Socket
+Rogue;Helm;Strength
+Rogue;Helm;Total Armor
+Rogue;Helm;Willpower
+Sorcerer;Helm;All Stats
+Sorcerer;Helm;Basic Skill Attack Speed
+Sorcerer;Helm;Cold Resistance
+Sorcerer;Helm;Cooldown Reduction
+Sorcerer;Helm;Crowd Control Duration
+Sorcerer;Helm;Dexterity
+Sorcerer;Helm;Fire Resistance
+Sorcerer;Helm;Healing Received
+Sorcerer;Helm;Intelligence
+Sorcerer;Helm;Life On Kill
+Sorcerer;Helm;Life Regeneration while Not Damaged Recently
+Sorcerer;Helm;Lightning Resistance
+Sorcerer;Helm;Maximum Life
+Sorcerer;Helm;Poison Resistance
+Sorcerer;Helm;Shadow Resistance
+Sorcerer;Helm;Socket
+Sorcerer;Helm;Strength
+Sorcerer;Helm;Total Armor
+Sorcerer;Helm;Willpower
+Barbarian;Chest;All Stats
+Barbarian;Chest;Cold Resistance
+Barbarian;Chest;Control Impaired Duration
+Barbarian;Chest;Damage
+Barbarian;Chest;Damage Reduction
+Barbarian;Chest;Damage Reduction from Close Enemies
+Barbarian;Chest;Damage Reduction from Distant Enemies
+Barbarian;Chest;Dexterity
+Barbarian;Chest;Fire Resistance
+Barbarian;Chest;Intelligence
+Barbarian;Chest;Life on Kill
+Barbarian;Chest;Lightning Resistance
+Barbarian;Chest;Maximum Life
+Barbarian;Chest;Poison Resistance
+Barbarian;Chest;Shadow Resistance
+Barbarian;Chest;Socket
+Barbarian;Chest;Strength
+Barbarian;Chest;Thorns
+Barbarian;Chest;Total Armor
+Barbarian;Chest;Ultimate Skill Damage
+Barbarian;Chest;Willpower
+Barbarian;Chest;Brawling Skill Damage
+Barbarian;Chest;Damage Reduction from Enemies That Are Bleeding
+Barbarian;Chest;Damage Reduction while Fortified
+Barbarian;Chest;Fortify Generation
+Barbarian;Chest;Physical Damage
+Barbarian;Chest;Rank of Challenging Shout
+Barbarian;Chest;Rank of Ground Stomp
+Barbarian;Chest;Rank of Iron Skin
+Barbarian;Chest;Rank of Rallying Cry
+Barbarian;Chest;Weapon Mastery Skill Damage
+Druid;Chest;Companion Skill Damage
+Druid;Chest;Damage Reduction from Enemies That Are Poisoned
+Druid;Chest;Damage Reduction while Fortified
+Druid;Chest;Damage while in Human Form
+Druid;Chest;Damage while Shapeshifted
+Druid;Chest;Earth Skill Damage
+Druid;Chest;Fortify Generation
+Druid;Chest;Lightning Damage
+Druid;Chest;Overpower Damage with Werebear Skills
+Druid;Chest;Physical Damage
+Druid;Chest;Poison Damage
+Druid;Chest;Rank of Blood Howl
+Druid;Chest;Rank of Cyclone Armor
+Druid;Chest;Rank of Debilitating Roar
+Druid;Chest;Rank of Earthen Bulwark
+Druid;Chest;Storm Skill Damage
+Druid;Chest;Werebear Skill Damage
+Druid;Chest;Werewolf Skill Damage
+Necromancer;Chest;Blood Skill Damage
+Necromancer;Chest;Bone Skill Damage
+Necromancer;Chest;Damage for 4 Seconds After Picking Up a Blood Orb
+Necromancer;Chest;Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Necromancer;Chest;Damage Reduction while Fortified
+Necromancer;Chest;Darkness Skill Damage
+Necromancer;Chest;Fortify Generation
+Necromancer;Chest;Maximum Minion Life
+Necromancer;Chest;Physical Damage
+Necromancer;Chest;Shadow Damage
+Necromancer;Chest;Summoning Skill Damage
+Rogue;Chest;Cutthroat Skill Damage
+Rogue;Chest;Damage Reduction from Enemies That Are Poisoned
+Rogue;Chest;Damage with Dual-Wielded Weapons
+Rogue;Chest;Damage with Ranged Weapons
+Rogue;Chest;Damage with Skills that Swap to New Weapons
+Rogue;Chest;Imbued Skill Damage
+Rogue;Chest;Marksman Skill Damage
+Rogue;Chest;Physical Damage
+Rogue;Chest;Poison Damage
+Rogue;Chest;Shadow Damage
+Rogue;Chest;Trap Skill Damage
+Sorcerer;Chest;Barrier Generation
+Sorcerer;Chest;Cold Damage
+Sorcerer;Chest;Conjuration Skill Damage
+Sorcerer;Chest;Damage Reduction from Enemies That Are Burning
+Sorcerer;Chest;Fire Damage
+Sorcerer;Chest;Frost Skill Damage
+Sorcerer;Chest;Lightning Damage
+Sorcerer;Chest;Pyromancy Skill Damage
+Sorcerer;Chest;Shock Skill Damage
+Druid;Chest;All Stats
+Druid;Chest;Cold Resistance
+Druid;Chest;Control Impaired Duration
+Druid;Chest;Damage
+Druid;Chest;Damage Reduction
+Druid;Chest;Damage Reduction from Close Enemies
+Druid;Chest;Damage Reduction from Distant Enemies
+Druid;Chest;Dexterity
+Druid;Chest;Fire Resistance
+Druid;Chest;Intelligence
+Druid;Chest;Life on Kill
+Druid;Chest;Lightning Resistance
+Druid;Chest;Maximum Life
+Druid;Chest;Poison Resistance
+Druid;Chest;Shadow Resistance
+Druid;Chest;Socket
+Druid;Chest;Strength
+Druid;Chest;Thorns
+Druid;Chest;Total Armor
+Druid;Chest;Ultimate Skill Damage
+Druid;Chest;Willpower
+Necromancer;Chest;All Stats
+Necromancer;Chest;Cold Resistance
+Necromancer;Chest;Control Impaired Duration
+Necromancer;Chest;Damage
+Necromancer;Chest;Damage Reduction
+Necromancer;Chest;Damage Reduction from Close Enemies
+Necromancer;Chest;Damage Reduction from Distant Enemies
+Necromancer;Chest;Dexterity
+Necromancer;Chest;Fire Resistance
+Necromancer;Chest;Intelligence
+Necromancer;Chest;Life on Kill
+Necromancer;Chest;Lightning Resistance
+Necromancer;Chest;Maximum Life
+Necromancer;Chest;Poison Resistance
+Necromancer;Chest;Shadow Resistance
+Necromancer;Chest;Socket
+Necromancer;Chest;Strength
+Necromancer;Chest;Thorns
+Necromancer;Chest;Total Armor
+Necromancer;Chest;Ultimate Skill Damage
+Necromancer;Chest;Willpower
+Rogue;Chest;All Stats
+Rogue;Chest;Cold Resistance
+Rogue;Chest;Control Impaired Duration
+Rogue;Chest;Damage
+Rogue;Chest;Damage Reduction
+Rogue;Chest;Damage Reduction from Close Enemies
+Rogue;Chest;Damage Reduction from Distant Enemies
+Rogue;Chest;Dexterity
+Rogue;Chest;Fire Resistance
+Rogue;Chest;Intelligence
+Rogue;Chest;Life on Kill
+Rogue;Chest;Lightning Resistance
+Rogue;Chest;Maximum Life
+Rogue;Chest;Poison Resistance
+Rogue;Chest;Shadow Resistance
+Rogue;Chest;Socket
+Rogue;Chest;Strength
+Rogue;Chest;Thorns
+Rogue;Chest;Total Armor
+Rogue;Chest;Ultimate Skill Damage
+Rogue;Chest;Willpower
+Sorcerer;Chest;All Stats
+Sorcerer;Chest;Cold Resistance
+Sorcerer;Chest;Control Impaired Duration
+Sorcerer;Chest;Damage
+Sorcerer;Chest;Damage Reduction
+Sorcerer;Chest;Damage Reduction from Close Enemies
+Sorcerer;Chest;Damage Reduction from Distant Enemies
+Sorcerer;Chest;Dexterity
+Sorcerer;Chest;Fire Resistance
+Sorcerer;Chest;Intelligence
+Sorcerer;Chest;Life on Kill
+Sorcerer;Chest;Lightning Resistance
+Sorcerer;Chest;Maximum Life
+Sorcerer;Chest;Poison Resistance
+Sorcerer;Chest;Shadow Resistance
+Sorcerer;Chest;Socket
+Sorcerer;Chest;Strength
+Sorcerer;Chest;Thorns
+Sorcerer;Chest;Total Armor
+Sorcerer;Chest;Ultimate Skill Damage
+Sorcerer;Chest;Willpower
+Barbarian;Gloves;All Stats
+Barbarian;Gloves;Attack Speed
+Barbarian;Gloves;Critical Strike Chance
+Barbarian;Gloves;Critical Strike Chance Against Injured Enemies
+Barbarian;Gloves;Damage to Injured Enemies
+Barbarian;Gloves;Dexterity
+Barbarian;Gloves;IntelligenceLucky Hit Chance
+Barbarian;Gloves;Lucky Hit:
+Barbarian;Gloves;Chance to Restore [X]% Primary Resource
+Barbarian;Gloves;Lucky Hit: Up to a [X]% Chance to Heal
+Barbarian;Gloves;Lucky Hit: Up to a [X]% Chance to Slow
+Barbarian;Gloves;Overpower Damage
+Barbarian;Gloves;Strength
+Barbarian;Gloves;Willpower
+Barbarian;Gloves;Physical Damage Over Time
+Barbarian;Gloves;Rank of Double Swing
+Barbarian;Gloves;Rank of Hammer of the Ancients
+Barbarian;Gloves;Rank of Rend
+Barbarian;Gloves;Rank of Upheaval
+Barbarian;Gloves;Rank of Whirlwind
+Druid;Gloves;Critical Strike Damage with Earth Skills
+Druid;Gloves;Critical Strike Damage with Werewolf Skills
+Druid;Gloves;Rank of Landslide
+Druid;Gloves;Rank of Lightning Storm
+Druid;Gloves;Rank of Pulverize
+Druid;Gloves;Rank of Shred
+Druid;Gloves;Rank of Tornado
+Druid;Gloves;Storm Skill Cooldown Reduction
+Necromancer;Gloves;Critical Strike Damage with Bone Skills
+Necromancer;Gloves;Rank of Blight
+Necromancer;Gloves;Rank of Blood Lance
+Necromancer;Gloves;Rank of Blood Surge
+Necromancer;Gloves;Rank of Bone Spear
+Necromancer;Gloves;Rank of Sever
+Necromancer;Gloves;Shadow Damage Over Time
+Rogue;Gloves;Attack Speed for 4 seconds after Dodging an Attack
+Rogue;Gloves;Critical Strike Damage with Imbued Skills
+Rogue;Gloves;Rank of Barrage
+Rogue;Gloves;Rank of Flurry
+Rogue;Gloves;Rank of Penetrating Shot
+Rogue;Gloves;Rank of Rapid Fire
+Rogue;Gloves;Rank of Twisting Blades
+Rogue;Gloves;Reduces the Arm Time of your Trap Skills
+Rogue;Gloves;Trap Skill Cooldown Reduction
+Sorcerer;Gloves;Fire Damage Over Time
+Sorcerer;Gloves;Lightning Critical Strike Damage
+Sorcerer;Gloves;Rank of Chain LightningRank of Charged Bolts
+Sorcerer;Gloves;Rank of Fireball
+Sorcerer;Gloves;Rank of Frozen Orb
+Sorcerer;Gloves;Rank of Ice Shards
+Sorcerer;Gloves;Rank of Incinerate
+Druid;Gloves;All Stats
+Druid;Gloves;Attack Speed
+Druid;Gloves;Critical Strike Chance
+Druid;Gloves;Critical Strike Chance Against Injured Enemies
+Druid;Gloves;Damage to Injured Enemies
+Druid;Gloves;Dexterity
+Druid;Gloves;IntelligenceLucky Hit Chance
+Druid;Gloves;Lucky Hit:
+Druid;Gloves;Chance to Restore [X]% Primary Resource
+Druid;Gloves;Lucky Hit: Up to a [X]% Chance to Heal
+Druid;Gloves;Lucky Hit: Up to a [X]% Chance to Slow
+Druid;Gloves;Overpower Damage
+Druid;Gloves;Strength
+Druid;Gloves;Willpower
+Necromancer;Gloves;All Stats
+Necromancer;Gloves;Attack Speed
+Necromancer;Gloves;Critical Strike Chance
+Necromancer;Gloves;Critical Strike Chance Against Injured Enemies
+Necromancer;Gloves;Damage to Injured Enemies
+Necromancer;Gloves;Dexterity
+Necromancer;Gloves;IntelligenceLucky Hit Chance
+Necromancer;Gloves;Lucky Hit:
+Necromancer;Gloves;Chance to Restore [X]% Primary Resource
+Necromancer;Gloves;Lucky Hit: Up to a [X]% Chance to Heal
+Necromancer;Gloves;Lucky Hit: Up to a [X]% Chance to Slow
+Necromancer;Gloves;Overpower Damage
+Necromancer;Gloves;Strength
+Necromancer;Gloves;Willpower
+Rogue;Gloves;All Stats
+Rogue;Gloves;Attack Speed
+Rogue;Gloves;Critical Strike Chance
+Rogue;Gloves;Critical Strike Chance Against Injured Enemies
+Rogue;Gloves;Damage to Injured Enemies
+Rogue;Gloves;Dexterity
+Rogue;Gloves;IntelligenceLucky Hit Chance
+Rogue;Gloves;Lucky Hit:
+Rogue;Gloves;Chance to Restore [X]% Primary Resource
+Rogue;Gloves;Lucky Hit: Up to a [X]% Chance to Heal
+Rogue;Gloves;Lucky Hit: Up to a [X]% Chance to Slow
+Rogue;Gloves;Overpower Damage
+Rogue;Gloves;Strength
+Rogue;Gloves;Willpower
+Sorcerer;Gloves;All Stats
+Sorcerer;Gloves;Attack Speed
+Sorcerer;Gloves;Critical Strike Chance
+Sorcerer;Gloves;Critical Strike Chance Against Injured Enemies
+Sorcerer;Gloves;Damage to Injured Enemies
+Sorcerer;Gloves;Dexterity
+Sorcerer;Gloves;IntelligenceLucky Hit Chance
+Sorcerer;Gloves;Lucky Hit:
+Sorcerer;Gloves;Chance to Restore [X]% Primary Resource
+Sorcerer;Gloves;Lucky Hit: Up to a [X]% Chance to Heal
+Sorcerer;Gloves;Lucky Hit: Up to a [X]% Chance to Slow
+Sorcerer;Gloves;Overpower Damage
+Sorcerer;Gloves;Strength
+Sorcerer;Gloves;Willpower
+Barbarian;Pants;All Stats
+Barbarian;Pants;Damage for 4 seconds After Killing an Elite
+Barbarian;Pants;Damage Reduction
+Barbarian;Pants;Damage Reduction from Close Enemies
+Barbarian;Pants;Damage Reduction from Distant Enemies
+Barbarian;Pants;Dexterity
+Barbarian;Pants;Dodge Chance
+Barbarian;Pants;Dodge Chance Against Close Enemies
+Barbarian;Pants;Healing Received
+Barbarian;Pants;IntelligenceLife Regeneration while Not Damaged Recently
+Barbarian;Pants;Maximum Life
+Barbarian;Pants;Potion Capacity
+Barbarian;Pants;Potion Drop Rate
+Barbarian;Pants;Socket
+Barbarian;Pants;Strength
+Barbarian;Pants;Thorns
+Barbarian;Pants;Total Armor
+Barbarian;Pants;Willpower
+Barbarian;Pants;Berserking Duration
+Barbarian;Pants;Damage Reduction from Enemies That Are Bleeding
+Barbarian;Pants;Damage Reduction while Fortified
+Barbarian;Pants;Rank of Charge
+Barbarian;Pants;Rank of Kick
+Barbarian;Pants;Rank of Leap
+Barbarian;Pants;Rank of War Cry
+Druid;Pants;Damage Reduction from Enemies that are Poisoned
+Druid;Pants;Damage Reduction while Fortified
+Druid;Pants;Rank of Boulder
+Druid;Pants;Rank of Hurricane
+Druid;Pants;Rank of Rabies
+Druid;Pants;Rank of Trample
+Druid;Pants;Total Armor while in Werebear Form
+Necromancer;Pants;Damage Reduction from Affected By Shadow Damage Over Time Enemies
+Necromancer;Pants;Damage Reduction while Fortified
+Necromancer;Pants;Rank of Blood Mist
+Necromancer;Pants;Rank of Bone Prison
+Necromancer;Pants;Rank of Corpse Explosion
+Rogue;Pants;Damage for 4 Seconds After Dodging an Attack
+Rogue;Pants;Damage Reduction from Enemies that are Poisoned
+Rogue;Pants;Imbuement Skill Cooldown
+Rogue;Pants;Rank of Concealment
+Rogue;Pants;Rank of Dark Shroud
+Rogue;Pants;Rank of Poison Trap
+Rogue;Pants;Rank of Smoke Grenade
+Sorcerer;Pants;Crackling Energy Damage
+Sorcerer;Pants;Damage Reduction from Enemies That Are Burning
+Sorcerer;Pants;Rank of Ball Lightning
+Sorcerer;Pants;Rank of Blizzard
+Sorcerer;Pants;Rank of Firewall
+Sorcerer;Pants;Rank of Meteor
+Druid;Pants;All Stats
+Druid;Pants;Damage for 4 seconds After Killing an Elite
+Druid;Pants;Damage Reduction
+Druid;Pants;Damage Reduction from Close Enemies
+Druid;Pants;Damage Reduction from Distant Enemies
+Druid;Pants;Dexterity
+Druid;Pants;Dodge Chance
+Druid;Pants;Dodge Chance Against Close Enemies
+Druid;Pants;Healing Received
+Druid;Pants;IntelligenceLife Regeneration while Not Damaged Recently
+Druid;Pants;Maximum Life
+Druid;Pants;Potion Capacity
+Druid;Pants;Potion Drop Rate
+Druid;Pants;Socket
+Druid;Pants;Strength
+Druid;Pants;Thorns
+Druid;Pants;Total Armor
+Druid;Pants;Willpower
+Necromancer;Pants;All Stats
+Necromancer;Pants;Damage for 4 seconds After Killing an Elite
+Necromancer;Pants;Damage Reduction
+Necromancer;Pants;Damage Reduction from Close Enemies
+Necromancer;Pants;Damage Reduction from Distant Enemies
+Necromancer;Pants;Dexterity
+Necromancer;Pants;Dodge Chance
+Necromancer;Pants;Dodge Chance Against Close Enemies
+Necromancer;Pants;Healing Received
+Necromancer;Pants;IntelligenceLife Regeneration while Not Damaged Recently
+Necromancer;Pants;Maximum Life
+Necromancer;Pants;Potion Capacity
+Necromancer;Pants;Potion Drop Rate
+Necromancer;Pants;Socket
+Necromancer;Pants;Strength
+Necromancer;Pants;Thorns
+Necromancer;Pants;Total Armor
+Necromancer;Pants;Willpower
+Rogue;Pants;All Stats
+Rogue;Pants;Damage for 4 seconds After Killing an Elite
+Rogue;Pants;Damage Reduction
+Rogue;Pants;Damage Reduction from Close Enemies
+Rogue;Pants;Damage Reduction from Distant Enemies
+Rogue;Pants;Dexterity
+Rogue;Pants;Dodge Chance
+Rogue;Pants;Dodge Chance Against Close Enemies
+Rogue;Pants;Healing Received
+Rogue;Pants;IntelligenceLife Regeneration while Not Damaged Recently
+Rogue;Pants;Maximum Life
+Rogue;Pants;Potion Capacity
+Rogue;Pants;Potion Drop Rate
+Rogue;Pants;Socket
+Rogue;Pants;Strength
+Rogue;Pants;Thorns
+Rogue;Pants;Total Armor
+Rogue;Pants;Willpower
+Sorcerer;Pants;All Stats
+Sorcerer;Pants;Damage for 4 seconds After Killing an Elite
+Sorcerer;Pants;Damage Reduction
+Sorcerer;Pants;Damage Reduction from Close Enemies
+Sorcerer;Pants;Damage Reduction from Distant Enemies
+Sorcerer;Pants;Dexterity
+Sorcerer;Pants;Dodge Chance
+Sorcerer;Pants;Dodge Chance Against Close Enemies
+Sorcerer;Pants;Healing Received
+Sorcerer;Pants;IntelligenceLife Regeneration while Not Damaged Recently
+Sorcerer;Pants;Maximum Life
+Sorcerer;Pants;Potion Capacity
+Sorcerer;Pants;Potion Drop Rate
+Sorcerer;Pants;Socket
+Sorcerer;Pants;Strength
+Sorcerer;Pants;Thorns
+Sorcerer;Pants;Total Armor
+Sorcerer;Pants;Willpower
