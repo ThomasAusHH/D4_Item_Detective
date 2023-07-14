@@ -3,7 +3,7 @@
 * Clone this repository
 * Go to the root of cloned repository
 * Install dependencies by running `pip3 install -r requirements.txt`
-* Furthermore, you need to install [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract) on your system. The path to the `tesseract.exe` should be defined as `pytesseract.pytesseract.tesseract_cmd`
+* Furthermore, you need to install [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract) on your system. The path to the `tesseract.exe` should be defined as `pytesseract.pytesseract.tesseract_cmd` (Make sure to add it to your system's PATH or define the path to the `tesseract.exe` in the script (replace `r"C:\Program Files\Tesseract-OCR\tesseract.exe"` with the correct path on your system).)
 
 ## Run
 
