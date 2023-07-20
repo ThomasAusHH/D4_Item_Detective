@@ -22,7 +22,14 @@ def process_image_for_ocr(img):
     # Performing OTSU threshold
     _, thresholded = cv2.threshold(blur, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-    return thresholded
+    # Morphological operations to improve the structure of characters
+    kernel = np.ones((2,2),np.uint8)
+    morph = cv2.morphologyEx(thresholded, cv2.MORPH_OPEN, kernel)
+
+    # Scale the image
+    scaled = cv2.resize(morph, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+
+    return scaled
 
 def detect_objects_on_image(image, labels_to_include=None, prob_threshold=0.6):
     model = YOLO("best.pt")
@@ -39,7 +46,7 @@ def detect_objects_on_image(image, labels_to_include=None, prob_threshold=0.6):
             roi_np = np.array(roi)
             roi_np = cv2.cvtColor(roi_np, cv2.COLOR_RGB2BGR)
             processed_roi = process_image_for_ocr(roi_np)
-            text = pytesseract.image_to_string(processed_roi, config='--psm 11', lang='eng', output_type=Output.STRING).replace('\n', ' ')
+            text = pytesseract.image_to_string(processed_roi, config='--psm 6', lang='eng', output_type=Output.STRING).replace('\n', ' ')
             output.append([x1, y1, x2, y2, label, prob, text])
     return output
 
@@ -55,12 +62,12 @@ def draw_boxes_on_image(image, boxes):
 
 if __name__ == "__main__":
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-    framerate = 1  # set the desired framerate here
+    framerate = 0.5  # set the desired framerate here
     sleep_time = 1 / framerate
     monitor_index = 1  # set the index of the monitor to capture
     while True:
         screen = capture_screen(monitor_index)
-        boxes = detect_objects_on_image(screen, ["Item-Power", "Item-Affixes", "Item-Aspect"], prob_threshold=0.35)
+        boxes = detect_objects_on_image(screen, ["Item"], prob_threshold=0.85)
         draw_boxes_on_image(screen, boxes)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
